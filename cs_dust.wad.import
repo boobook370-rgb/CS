@@ -1,0 +1,14 @@
+[remap]
+
+importer="bsp"
+type="PackedScene"
+uid="uid://bcsvdfyge0q55"
+path="res://.godot/imported/cs_dust.wad-966807eedb4c665675119d12b4d1815c.scn"
+
+[deps]
+
+source_file="res://cs_dust.wad"
+dest_files=["res://.godot/imported/cs_dust.wad-966807eedb4c665675119d12b4d1815c.scn"]
+
+[params]
+
